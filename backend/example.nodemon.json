@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "MONGODB USERNAME",
+        "DB_PASSWORD": "MONGODB PASSWORD",
+        "DB_NAME": "MONGODB NAME",
+        "GOOGLE_API_KEY": "YOUR GOOGLE GEOCODING API KEY HERE",
+        "JWT_KEY": "YOUR KEY HERE"
+    }
+}
